@@ -45,6 +45,7 @@ Start running your own analysis either by using flags as shown below:
  ```
 ## Output
 [Analysis_output](https://nanje.quarto.pub/intergrated_prs/)
+[Nextflow report](https://github.com/nanjalaruth/Intergrated_PRS_Analysis/blob/main/conf/)
 
 ## Support
 I track open tasks using github's [issues](https://github.com/nanjalaruth/Intergrated_PRS_Analysis/issues)
