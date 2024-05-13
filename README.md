@@ -17,6 +17,7 @@ The pipeline begins by retrieving PGS Score files from the PGS Catalogue, utiliz
 ## Test Data
 
 ## Workflow
+![pipeline](https://github.com/nanjalaruth/Intergrated_PRS_Analysis/blob/main/conf/pipeline_dag.png)
 
 ## Installation 
 
